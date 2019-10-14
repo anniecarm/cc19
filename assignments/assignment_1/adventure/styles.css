@@ -1,0 +1,50 @@
+body {
+	background-color: #D0EE9B;
+}
+
+a {
+	background-color: #6E2EDC;
+	color: #9B70E7;
+	border-radius: 25px;
+}
+
+a:link, a:visited {
+	background-color: #6e2edc;
+	color: white;
+	padding:14px 25px;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+} 
+
+a:hover, a:active {
+  background-color: #9B70E7;
+  text-decoration: none;
+}
+
+h1 {
+	margin: 10%;
+}
+
+ul li {
+	list-style: none;
+	display: inline-block;
+	padding-top:20%;
+	margin-bottom:10%;
+	text-decoration: none;
+}
+
+.optiona {
+	float: left;
+	margin-left: 5%;
+}
+
+.optionb {
+	float: right;
+	margin-right: 10%
+}
+
+.optionc {
+	margin-left: 44%;
+}
+

@@ -1,0 +1,70 @@
+
+.noggin1 {
+	position: absolute;
+	top: 10%;
+	left: 22%;
+}
+
+.noggin2 {
+	position: absolute;
+	top: 35%;
+	left: 20%;
+	z-index: -1;
+	min-height: 550px;
+
+}
+
+.noggin3 {
+	position: absolute;
+	top:50%;
+	left:15%;
+	z-index: -2;
+}
+
+.talk {
+	position:absolute;
+	top:100%;
+	left:10%;
+	border-radius: 99px 200px 1px 200px;
+	border: 1px solid red;
+	padding: 1%;
+	background: red;
+}
+
+.body1 {
+	position: absolute;
+	top:115%;
+	left:30%;
+}
+
+.body2 {
+		position: absolute;
+	top:135%;
+	/*left:-15%;*/
+	right:7%;
+	min-height: 1100px;
+	z-index: -1;
+}
+
+.body3 {
+	position: absolute;
+	top: 125%;
+	left:25%;
+	z-index: -1;
+	max-height: 300px;
+
+}
+
+.feet1 {
+	position: absolute;
+	top:230%;
+	left:20%;
+	max-height: 80%;
+}
+
+.feet2 {
+	position:absolute;
+	top:230%;
+	right:10%;
+	max-height: 80%;
+}

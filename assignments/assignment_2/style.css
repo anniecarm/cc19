@@ -1,0 +1,386 @@
+body {
+	font-family: 'Grenze', serif;
+font-size: 18pt;
+}
+
+#shrek {;
+	background: linear-gradient(to bottom, #996633 0%, #00cc00 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	margin-left:4%;
+	margin-bottom: 5%;
+}
+
+#leave-1 {
+	opacity: 1;
+}
+
+#leave-2 {
+	opacity: .60;
+}
+
+#leave-3 {
+	opacity: .50;
+}
+
+#leave-4 {
+	opacity: .40;
+}
+
+#leave-5 {
+	opacity: .30;
+}
+
+#leave-6 {
+	opacity: .20;
+}
+
+#leave-7 {
+	opacity: .10;
+}
+
+#leave {
+	text-align: center;
+}
+
+#sandwich {
+	float: right;
+	margin-right:4%;
+}
+
+#sandwich-1 {
+	color: brown;
+	font-size: 40px;
+}
+
+#sandwich-2 {
+	color: #EEDEC2;
+}
+
+#sandwich-3 {
+	color: red;
+}
+
+#sandwich-4 {
+	color: green;
+}
+
+#sandwich-5 {
+	color: #961F50;
+}
+
+#sandwich-6 {
+	color: #EFBFA4;
+}
+
+#sandwich-7 {
+	color: brown;
+	font-size: 40px;
+}
+
+#chill-angry h1 {
+		margin-top: 10%;
+		display: inline;
+		font-size: 40px;
+		word-break: break-all;
+		hyphens:auto;
+	margin: 0;
+}
+
+#chill-angry {
+	margin-right: 25%;
+	margin-left: 4%;
+}
+
+
+#chill {
+	color: #19DF13;
+}
+
+#cool {
+	color: #46FF33;
+}
+
+#calm {
+	color: #8AFF33;
+}
+
+#fine {
+	color: #E8FF33;
+}
+
+#alright {
+	color: #FBFD18;
+}
+
+#uncomfortable {
+	color: #FDDD18;
+}
+
+#agitated {
+	color:#FDB218;
+}
+
+#fidgety {
+	color: #FD7D18;
+}
+
+#frustrated {
+	color: #FD6018;
+}
+
+#stressed {
+	color:#FD4318
+}
+
+#angry {
+	color:red;
+}
+
+
+#write {
+	text-align:center;
+	margin-top: 20%;
+	margin-left: 4%;
+}
+
+#write-1 {
+	    background: linear-gradient(to right, #7311d0 10%, #ccccff 100%);
+	    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+#write-2 {
+    background: linear-gradient(to right, #a988ed 10%, #ffffff 100%);
+	 -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+#write-3 {
+	    background: linear-gradient(to right, #ffcc00 10%, #ff0000 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+#write-4 {
+	color:  #FF8210;
+	text-shadow: -4px 1px #FFAE0C;
+}
+
+#write-5 {
+	color:#F6D319;
+}
+
+#write-6 {
+	color:#B8F619;
+}
+
+#write-7 {
+	color:#52F619;
+	font-style: italic;
+	font-size: 40px;
+}
+
+#boat {
+	margin-left: 10%;
+}
+
+#boata {
+	margin-top:20%;
+	    background: linear-gradient(to right, #ff0066 16%, #ff9933 63%);
+	    	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+
+#boata-1 {
+	margin-left: 34%;
+	color:red;
+}
+
+#boata-2 {
+	margin-left: 20%;
+	color:red;
+}
+
+#boata-3 {
+	margin-left: 10%;
+	color:red;
+}
+
+#boatb-1 {
+	margin-left: 30%;
+	color:black;
+
+}
+
+#boatb-2 {
+	color:#6E4607;
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-decoration-color:blue;
+}
+
+#boatc {
+
+	    background: linear-gradient(to top right, #0099cc 22%, #0066cc 74%);
+	    margin-right: 35%;
+
+}
+
+#boatc-1 {
+	color:#6E4607;
+}
+
+#boatc-2 {
+	color:#6E4607;
+}
+
+#love {
+margin-top: 10%;
+
+}
+
+#love-1 {
+	animation: pulse 10s infinite;
+	color:white;
+	margin-right: 70%;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #ffffff;
+  }
+  100% {
+    background-color: #FF4136;
+  }
+}
+
+#love-2 {
+	animation-delay: 5s;
+	animation-duration: 10s;
+  animation-name: slidein;
+  animation-iteration-count: 3;
+  animation-direction: normal;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: blue;
+}
+
+@keyframes slidein {
+  from {
+    margin-left:0%;
+    width:300%
+  }
+  
+  to {
+    margin-left:60%;
+    width:100%;
+  }
+}
+
+#love-3 {
+	transition-delay: 18s;
+	transform: scale(2);
+	transition-duration: 10s;
+	transition: transform 5s;
+	transform-origin: left top;
+background: linear-gradient(to bottom right, #ff5050 22%, #ff00ff 74%);
+-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+
+#love-4 {
+     background: linear-gradient(to bottom right, #ff5050 22%, #ff00ff 74%);
+-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+
+
+#love-5 {
+	    background: linear-gradient(to bottom right, #0033cc 22%, #ffffff 74%);
+	    	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+#love-6 {
+	background: linear-gradient(to bottom right, #0033cc 22%, #ffffff 74%);
+	    	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	opacity: .60;
+}
+
+#love-7 {
+	background: linear-gradient(to bottom right, #0033cc 22%, #ffffff 74%);
+	    	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	opacity: .20;
+}
+
+#donald {
+	float:right;
+	margin-right: 5%;
+	    background: linear-gradient(to bottom right, #3399ff 22%, #ff6600 67%);
+	    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+
+#lights {
+	background: rgb(2,0,36);
+background: linear-gradient(to bottom, #000000 47%, #ffff00 52%, #ffffcc 71%);
+margin-right: 70%;
+margin-top:15%;
+}
+
+#lights-1 {
+	color:	#282828;
+}
+
+#lights-2 {
+	color: 	#282828;
+}
+
+#lights-3 {
+	color: white;
+	text-shadow: 1px 1px orange;
+}
+
+#lights-4 {
+	color:#e1ad01;
+	opacity: .8;
+}
+
+#money {
+	margin-top: 20%;
+	text-align: center;
+}
+
+#money-1 {
+	color: lightgreen;
+	text-shadow: 2px 4px green;
+}
+
+#money-2 {
+		color: lightgreen;
+	text-shadow: 2px 4px green;
+}
+
+#money-3 {
+	    background: linear-gradient(to right, #65bb8e 26%, #ffffff 74%);
+	    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+
+#money-4 {
+	background: linear-gradient(to left, #65bb8e 26%, #ffffff 74%);
+	    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+#money-5 {
+	color:green;
+}
